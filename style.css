@@ -1,0 +1,59 @@
+* {
+margin : 0;
+padding : 0;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;  
+}
+
+header {
+    width: 75%;
+    margin: auto;
+}
+
+img, h1, nav, ul, li {
+    display: inline-block;
+}
+
+img {
+    width: 200px;
+    height: 100px;
+    vertical-align: middle;
+}
+
+h1 {
+    width: 40%;
+    text-align: center;
+}
+
+
+li {
+    font-size: 2em;
+    margin: 1em ;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+
+
+
+
+
+
+
